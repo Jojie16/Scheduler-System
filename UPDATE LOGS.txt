@@ -1,0 +1,15 @@
+V1.0 Bug Fixed:
+	- Table overlapping.
+	- Label in table aligned properly.
+	- Application displying table at last.
+
+V1.0 Added Features:
+	- UI
+	- Added System pause.
+	- Steps of how to use.
+	- Organized UI.
+	- Clear console after filling-up subjects info
+	  to make it re-usable.
+	- Change to green color table text to make it aesthetic.
+
+V1.5 @BETA [COMING SOON]
